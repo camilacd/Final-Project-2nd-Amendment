@@ -1,7 +1,8 @@
 # How mass shootings polarize gun control debate in the US
 ### **Final Project PPHA 30550** Introduction to Programming for Public Policy
 
-Students: Camila Carrasco (@camilacd), Lina Pedraza (@linapedraza), Evelyn Sanchez (@EvelynaS)
+Students: Camila Carrasco (@camilacd), Lina Pedraza (@linapp), Evelyn Sanchez (@EvelynaS)
+
 Date: December 1, 2017
 
 * The description of the entire analysis is included in the [Final Presentation](https://github.com/camilacd/Final-Project-2nd-Amendment/blob/master/GunControlPresentation.pdf).
