@@ -24,18 +24,18 @@ In this work we want to assess how an extreme event -like a shooting- affects th
 
 Twitter database
 
-o   We use the streaming API, that allows to filter through tweets in real time.  
-o   Query: "2nd amendment" + "Second amendment".
-o   Total amount of tweets: 166.610.
-o   Dates: Nov, 1st 2017 16:00 - Nov, 7th 2017 07:00.
-o   More information: https://developer.twitter.com/en/docs/tweets/filter-realtime/overview.html
+- We use the streaming API, that allows to filter through tweets in real time.  
+- Query: "2nd amendment" + "Second amendment".
+- Total amount of tweets: 166.610.
+- Dates: Nov, 1st 2017 16:00 - Nov, 7th 2017 07:00.
+- More information: https://developer.twitter.com/en/docs/tweets/filter-realtime/overview.html
 
 Bloomberg database (* these are some examples of guns stocks)
 
-o   Sturm Ruger (RGR): https://www.bloomberg.com/quote/RGR:US 
-o   American Outdoor Brands (AOBC): https://www.bloomberg.com/quote/AOBC:US 
-o   Olin (OLN) : https://www.bloomberg.com/quote/OLN:US
-o   Standard and Poor's 500 - S&P 500 (SPX): https://www.bloomberg.com/quote/SPX:IND
+- Sturm Ruger (RGR): https://www.bloomberg.com/quote/RGR:US 
+- American Outdoor Brands (AOBC): https://www.bloomberg.com/quote/AOBC:US 
+- Olin (OLN) : https://www.bloomberg.com/quote/OLN:US
+- Standard and Poor's 500 - S&P 500 (SPX): https://www.bloomberg.com/quote/SPX:IND
 
 #**3. Analysis**
 
