@@ -10,9 +10,10 @@ Date: December 1, 2017
 * The code used can be seen in [Final Code](https://github.com/camilacd/Final-Project-2nd-Amendment/blob/master/FinalCode.ipynb)
 
 * Additional documentation includes:
-- [stocks]()
+  - [stocks]()
 
-In Summary:
+
+**In Summary:
 
 #1. Description of our Proposal
 Assess how an extreme event -a shooting- affects the discussion about the right to bear arms in U.S. We will perform a Sentiment Analysis in Twitter about the 2nd Amendment and assess if some significant changes occur in the aftermath of the Texas shooting. 
