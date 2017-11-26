@@ -10,7 +10,7 @@ Date: December 1, 2017
 * The code used can be seen in [Final Code](https://github.com/camilacd/Final-Project-2nd-Amendment/blob/master/FinalCode.ipynb)
 
 * Additional documentation includes:
-  - [stocks]()
+  - [stocks](https://github.com/camilacd/Final-Project-2nd-Amendment/blob/master/stock%20prices.xlsx)
 
 IN SUMMARY:
 
