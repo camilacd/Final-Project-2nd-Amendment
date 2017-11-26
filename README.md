@@ -22,10 +22,12 @@ In this work we want to assess how an extreme event -like a shooting- affects th
 
 #**2. Sources**
 
-Twitter database (https://apps.twitter.com)
-o   Tweets with keywords related to 2nd amendment and Las Vegas shooting
-o   Timespan: October 24th, 2017-November 8th, 2017 (one week before and after Las Vegas shooting).
-o   Variables in twitter’s accounts: location (state)
+Twitter database
+We use the streaming API, that allows to filter through tweets in real time.  
+Query: "2nd amendment" + "Second amendment".
+Total amount of tweets: 166.610.
+Dates: Nov, 1st 2017 16:00 - Nov, 7th 2017 07:00.
+https://developer.twitter.com/en/docs/tweets/filter-realtime/overview.html
 
 Bloomberg database (* these are some examples of guns stocks)
 o   Sturm Ruger (RGR): https://www.bloomberg.com/quote/RGR:US 
