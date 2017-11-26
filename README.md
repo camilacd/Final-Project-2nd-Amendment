@@ -5,7 +5,7 @@
 #### Students: Camila Carrasco (@camilacd), Lina Pedraza (@linapedraza), Evelyn Sanchez (@EvelynaS)
 Date: December 1, 2017
 
-The entire analysis is presented in the [Final Presentation](docs/FinalPresentation)
+The entire analysis is presented in the [Final Presentation](docs/GunControlPresentation.pdf)
 
 #1. Description of our Proposal
 Assess how an extreme event -a shooting- affects the discussion about the right to bear arms in U.S. We will perform a Sentiment Analysis in Twitter about the 2nd Amendment and assess if some significant changes occur in the aftermath of the Texas shooting. 
