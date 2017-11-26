@@ -1,5 +1,4 @@
 # How mass shootings polarize gun control debate in the US
-## Texas Shooting effects on social media and financial markets
 ### **Final Project PPHA 30550** Introduction to Programming for Public Policy
 
 Students: Camila Carrasco (@camilacd), Lina Pedraza (@linapedraza), Evelyn Sanchez (@EvelynaS)
@@ -14,9 +13,9 @@ Date: December 1, 2017
 
 IN SUMMARY:
 
-#**1. Description of our Proposal**
+#**1. What are the effects of the Texas Shooting on social media and financial markets?**
 
-Assess how an extreme event -a shooting- affects the discussion about the right to bear arms in U.S. We will perform a Sentiment Analysis in Twitter about the 2nd Amendment and assess if some significant changes occur in the aftermath of the Texas shooting. 
+In this work we want to assess how an extreme event -like a shooting- affects the discussion about the right to bear arms in U.S. and how it relates with gun stocks. We will characterize tweets evolution regarding the 2nd Amendment, perform a Sentiment Analysis in Twitter assessing if some significant changes occur in the aftermath of the Texas shooting and finally we will study the correlation between the tweets and gun stock prices. 
 
 #**2. Sources**
 
