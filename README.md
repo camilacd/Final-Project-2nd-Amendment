@@ -1,6 +1,6 @@
-### **Final Project PPHA 30550**
+# **Final Project PPHA 30550**
 ## Introduction to Programming for Public Policy
-# Students: Camila Carrasco (@camilacd), Lina Pedraza (@linapedraza), Evelyn Sanchez (@EvelynaS)
+#### Students: Camila Carrasco (@camilacd), Lina Pedraza (@linapedraza), Evelyn Sanchez (@EvelynaS)
 Date: December 1, 2017
 
 ## How mass shootings polarize gun control debate in the US
