@@ -9,9 +9,6 @@ Date: December 1, 2017
 
 * The first proposal submitted on October 31st is described in [First Proposal](https://github.com/camilacd/Final-Project-2nd-Amendment/blob/master/Proposal_Oct31.pdf). At first, the idea was to focus on Las Vegas shooting, but it was changed to the Texas shooting due to data availability.
 
-* Additional documentation includes:
-  - [stocks](https://github.com/camilacd/Final-Project-2nd-Amendment/blob/master/stock%20prices.xlsx)
-
 IN SUMMARY:
 
 #**1. What are the effects of the Texas Shooting on social media and financial markets?**
