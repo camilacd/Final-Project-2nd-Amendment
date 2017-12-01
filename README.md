@@ -5,8 +5,6 @@ Students: Camila Carrasco (@camilacd), Lina Pedraza (@linapp), Evelyn Sanchez (@
 
 Date: December 1, 2017
 
-* The description of the entire analysis is included in the [Final Presentation](https://github.com/camilacd/Final-Project-2nd-Amendment/blob/master/GunControlPresentation.pdf).
-
 * The code used can be seen in [Final Code](https://github.com/camilacd/Final-Project-2nd-Amendment/blob/master/FinalCode.ipynb)
 
 * The first proposal submitted on October 31st is described in [First Proposal](https://github.com/camilacd/Final-Project-2nd-Amendment/blob/master/Proposal_Oct31.pdf). At first, the idea was to focus on Las Vegas shooting, but it was changed to the Texas shooting due to data availability.
@@ -23,32 +21,24 @@ In this work we want to assess how an extreme event -like a shooting- affects th
 #**2. Sources**
 
 Twitter database
-
 - We use the streaming API, that allows to filter through tweets in real time.  
 - Query: "2nd amendment" + "Second amendment".
 - Total amount of tweets: 166.610.
 - Dates: Nov, 1st 2017 16:00 - Nov, 7th 2017 07:00.
 - More information: https://developer.twitter.com/en/docs/tweets/filter-realtime/overview.html
 
-Bloomberg database (* these are some examples of guns stocks)
-
-- Sturm Ruger (RGR): https://www.bloomberg.com/quote/RGR:US 
-- American Outdoor Brands (AOBC): https://www.bloomberg.com/quote/AOBC:US 
-- Olin (OLN) : https://www.bloomberg.com/quote/OLN:US
-- Standard and Poor's 500 - S&P 500 (SPX): https://www.bloomberg.com/quote/SPX:IND
+Yahoo Finance database (* these are some examples of guns stocks)
+- Sturm Ruger (RGR)
+- Standard and Poor's 500 - S&P 500 (SPX)
 
 #**3. Analysis**
 
-- Analysis over Tweets on 2nd Amendment and Gun Control
-- Sentiment Analysis in Twitter
-- Correlation between number of tweets and gun stocks
-
-#**4. Problems**
-- Json file of tweets
-- Stock series have gaps each day during the market closure
-
-#**5. Solutions**
-- Imputation
+- **PART 1: Analysis over Tweets on 2nd Amendment and Gun Control
 
 
+- **PART 2: Sentiment Analysis in Twitter
 
+Using the library **TextBlob**, we classified the tweets in positive, negative and neutral. 
+We found that on average xx% was positive, xx% was negative and xx% was neutral. We plotted the number of tweets under each category to see their evolution. Finally, using the library **Wordcloud** we tried to plot the most common words, but we're unable to retrieve the result.
+
+- **PART 3: Correlation between number of tweets and gun stocks
