@@ -39,6 +39,6 @@ Yahoo Finance database (* these are some examples of guns stocks)
 - **PART 2: Sentiment Analysis in Twitter**
 
 Using the library **TextBlob**, we classified the tweets in positive, negative and neutral. 
-We found that on average xx% was positive, xx% was negative and xx% was neutral. We plotted the number of tweets under each category to see their evolution. Finally, using the library **Wordcloud** we tried to plot the most common words, but we're unable to retrieve the result.
+We found that on average 19.57% was positive, 10.74% was negative and 69.68% was neutral. We plotted the number of tweets under each category to see their evolution. It should be highlighted that these results should be intepreted carefully since those classifiers are not always accurate and they have some limitations when irony, or other complex structures are in place.   Finally, using the library **Wordcloud** we tried to plot the most common words, but we're unable to retrieve the result. 
 
 - **PART 3: Correlation between number of tweets and gun stocks**
