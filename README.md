@@ -33,12 +33,12 @@ Yahoo Finance database (* these are some examples of guns stocks)
 
 #**3. Analysis**
 
-- **PART 1: Analysis over Tweets on 2nd Amendment and Gun Control
+- **PART 1: Analysis over Tweets on 2nd Amendment and Gun Control**
 
 
-- **PART 2: Sentiment Analysis in Twitter
+- **PART 2: Sentiment Analysis in Twitter**
 
 Using the library **TextBlob**, we classified the tweets in positive, negative and neutral. 
 We found that on average xx% was positive, xx% was negative and xx% was neutral. We plotted the number of tweets under each category to see their evolution. Finally, using the library **Wordcloud** we tried to plot the most common words, but we're unable to retrieve the result.
 
-- **PART 3: Correlation between number of tweets and gun stocks
+- **PART 3: Correlation between number of tweets and gun stocks**
