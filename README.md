@@ -31,7 +31,13 @@ Yahoo Finance database (* these are some examples of guns stocks)
 #**3. Analysis**
 
 - **PART 1: Analysis over Tweets on 2nd Amendment and Gun Control**
+In this section, we analyze the number of tweets over the time, characteristics of twitter users and the content of the tweets. In it, the data shows how the number of tweets started increasing just after the shooting in Nov. 5th and had several peaks during Nov. 6th to later dramatically decreased in 7th of Nov.
 
+One remarkable and unexpected outcome of project was the analysis of the most active twitter users, in which is possible to observe that the top 10 most active users are fake accounts (bots), designed to spread pro-gun messages or promote the membership and support to the National Rifle Association (NRA). It is difficult to estimate the number of fake accounts created for this propose, nevertheless according to the text analysis 112,55 tweets contained the word “NRA”.
+
+In the other side, the most retweeted tweed (63,365 RT) presents an anti-gun rights position. This single tweet represented around the 38% of the total number of tweets in our study.
+
+One of the limitations that we found was the impossibility to track the geographical location of the twitter users. This difficulty derives that the fact that many users do not report their location or report fictional locations. Better information about the location of the users would had allowed us to explore the presence of geographical relation with and pro or anti-gun rights attitude or link this relation with a specific political preference
 
 - **PART 2: Sentiment Analysis in Twitter**
 
