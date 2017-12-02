@@ -38,7 +38,7 @@ One remarkable and unexpected outcome of project was the analysis of the most ac
 
 In the other side, the most retweeted tweed (63,365 RT) presents an anti-gun rights position. This single tweet represented around the 38% of the total number of tweets in our study.
 
-One of the limitations that we found was the impossibility to track the geographical location of the twitter users. This difficulty derives that the fact that many users do not report their location or report fictional locations. Better information about the location of the users would had allowed us to explore the presence of geographical relation with and pro or anti-gun rights attitude or link this relation with a specific political preference
+One of the limitations that we found was the impossibility to track the geographical location of the twitter users. This difficulty derives that the fact that many users do not report their location or report fictional locations. Better information about the location of the users would had allowed us to explore the presence of geographical relation with and pro or anti-gun rights attitude or link this relation with a specific political preference. Additionally, the keywords used for the search of tweets - "2nd amendment" + "Second amendment"- do not represent all positions in twitter and they usually represent comments of the most conservative side of the discussion. We would have liked to extend the search to different queries, like "gun control" but the timing did not allow us to do it. 
 
 - **PART 2: Sentiment Analysis in Twitter**
 
