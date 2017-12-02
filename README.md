@@ -47,7 +47,7 @@ We found that on average 19.57% was positive, 10.74% was negative and 69.68% was
 
 - **PART 3: Analysis of the gun stock market in the aftermath of the shooting in Texas**
 
-In this section we explore the behavior of the gun stock prices around the period of the mass shooting in Texas and Las Vegas. For this purpose, we will use the stock price of one of the most important gun companies in the US- RGR and we will try to find how the mass shooting impacted its stock's price. We did not find evidence that a mass shooting has an impact on the price of RGR. We do find that the gun stock market responds to the context of the overall market rather than to an event of shooting.
+In this section we explore the behavior of the gun stock prices around the period of the mass shooting in Texas and Las Vegas. For this purpose, we will use the stock price of one of the most important gun companies in the US- RGR and we will try to find how the mass shooting impacted its stock's price. In our analysis we did not find evidence that a mass shooting has an impact on the price of RGR. We do find that the gun stock market responds to the context of the overall market rather than to an event of shooting.
 
 It is important to note that we will only use graphical analysis to study this correlation. Our initial approach was to explore if the volume of tweets related to the Mass shooting in Texas was a determinant of the price of the stock RGR. However, we did not have enough hourly data on the stock's price (since the stock market trades only 7 hours a day) and we only had 2 days of tweets data after the shooting.
 
